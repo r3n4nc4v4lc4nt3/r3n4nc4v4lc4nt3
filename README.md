@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Renan Cavalcante 😁 
 <div>
-   <a href="https://github.com/r3n4nc4v4lc4nt3">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r3n4nc4v4lc4nt3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <a href="https://github.com/renanamorimcavalcante">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanamorimcavalcante&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3n4nc4v4lc4nt3&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
@@ -25,6 +25,6 @@
   
           
  
-  ![Snake animation](https://github.com/r3n4nc4v4lc4nt3/r3n4nc4v4lc4nt3/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/renanamorimcavalcante/renanamorimcavalcante/blob/output/github-contribution-grid-snake.svg)
 
 </div>
