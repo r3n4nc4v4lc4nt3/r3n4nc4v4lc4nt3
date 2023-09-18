@@ -2,7 +2,7 @@
 <div>
    <a href="https://github.com/renanamorimcavalcante">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanamorimcavalcante&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3n4nc4v4lc4nt3&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanamorimcavalcante&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
